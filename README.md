@@ -8,6 +8,8 @@ This project demonstrates real-world Excel skills used in **Data Analyst / Busin
 
 ---
 
+![Dashboard](images/dashboard.png)
+
 ## 📊 Project Overview
 
 The goal of this project was to transform raw order and product data into an **interactive dashboard** that helps answer key business questions:
