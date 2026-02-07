@@ -8,7 +8,7 @@ This project demonstrates real-world Excel skills used in **Data Analyst / Busin
 
 ---
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## 📊 Project Overview
 
